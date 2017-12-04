@@ -20,3 +20,10 @@ conda env create
 ```bash
 jupyter notebook
 ```
+
+### Anaconda Navigator
+If you installed Anaconda (not MiniConda) you can use [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/#what-is-anaconda-navigator)
+
+To import the `environment.yml` file here follow [this tutorial](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments#importing-an-environment)
+
+Back on the `Home` Pane select `healthyride` from the *Applications On* pull-down menu.
