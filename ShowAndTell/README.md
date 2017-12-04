@@ -14,6 +14,9 @@ You'll need [Anaconda](http://www.anaconda.com/download) or [MiniConda](https://
 ```bash
 conda env create
 ```
-1. On Windows type `activate healthyride`
-1. Elsewhere type `source activate healthyride`
-1. Type `jupyter notebook`.
+1. On Windows type`activate healthyride`
+    * Elsewhere type `source activate healthyride`
+1. Launch Jupyter Notebook
+```bash
+jupyter notebook
+```
