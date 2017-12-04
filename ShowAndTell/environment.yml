@@ -1,0 +1,17 @@
+name: healthyride
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python=3
+    - ipykernel
+    - dask
+    - numpy
+    - pandas
+    - bokeh
+    - matplotlib
+    - geopy
+    - pyproj
+    - numba
+    - pip:
+        - googlemaps
