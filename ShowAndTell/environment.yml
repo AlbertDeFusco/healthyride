@@ -14,5 +14,9 @@ dependencies:
     - pyproj
     - numba
     - requests
+    - beautifulsoup4
+    - html5lib
+    - lxml
+    - scipy
     - pip:
         - googlemaps
