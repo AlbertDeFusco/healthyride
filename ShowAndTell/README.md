@@ -2,6 +2,10 @@
 
 December 6, 2017.
 
+Click here to view notebook with all visualizations
+
+https://anaconda.org/defusco/healthyride
+
 ## Installation
 
 You'll need [Anaconda](http://www.anaconda.com/download) or [MiniConda](https://conda.io/miniconda.html).
