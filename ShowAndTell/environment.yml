@@ -18,5 +18,7 @@ dependencies:
     - html5lib
     - lxml
     - scipy
+    - statsmodels
+    - scikit-learn
     - pip:
         - googlemaps
