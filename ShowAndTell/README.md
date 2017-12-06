@@ -31,3 +31,5 @@ If you installed Anaconda (not MiniConda) you can use [Anaconda Navigator](https
 To import the `environment.yml` file here follow [this tutorial](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments#importing-an-environment)
 
 Back on the `Home` Pane select `healthyride` from the *Applications On* pull-down menu.
+
+## [ArcGIS Map of Healthy Ride Grades in 2016](http://arcg.is/1qS8WX)
